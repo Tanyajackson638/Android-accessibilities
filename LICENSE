@@ -199,3 +199,26 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+   system/lib/libmtp.so
+
+/system/lib/libmusicbundle.a
+
+/system/lib/libnativedisplay.so
+
+/system/lib/libnativehelper.a
+
+/system/lib/libnativewindow.a
+
+/system/lib/libnativewindow.so
+
+/system/lib/libnetutils.so
+
+/system/lib/libpower.so
+
+/system/lib/libregistermsext.a
+
+/system/lib/libreverb.a
+
+/system/lib/libsoundpool.so
+
+/system/lib/libsqlite3_android.a
